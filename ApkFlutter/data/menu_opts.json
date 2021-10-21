@@ -1,0 +1,22 @@
+{
+	"nombreApp":"Componentes",
+	"rutas":[
+		{
+			"ruta" : "avatar",
+			"icon" : "accessibility",
+			"texto" : "foto y imagen"
+
+		},
+		{
+			"ruta" : "Inputs",
+			"icon" : "add_box_outlined",
+			"texto" : "Numero Mayor"
+		},
+		{
+			"ruta" : "Multipli",
+			"icon" : "superscrip_outlined",
+			"texto" : "Multplicacion"
+		}
+
+	]
+}
